@@ -1,6 +1,6 @@
 def count_strings(array)
   array.count do
-    array == String
+    element == String
   end
 end
 
